@@ -1,1 +1,23 @@
+email:
+  id: 'your.name@yoursite.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
 
+facebook:
+  id: 'your-facebook-username'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+twitter:
+  id: 'your-twitter-name'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+homepage:
+  id: 'My webpage'
+  href: 'https://rubenmtzc.github.io/'
+  title: 'My webpage'
+  fa-icon: 'fa-github-square'
