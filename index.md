@@ -2,9 +2,9 @@
 
 ## Digital life
 
-<a href="https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx"><img src="assets/images/DMU-Logo.png" alt="DMU logo" width="100/"></a>
+<a href="https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx"><img src="assets/images/DMU-Logo.png" alt="DMU logo" width="100/"></a> &nbsp;&nbsp; &nbsp;&nbsp; <a href="https://www.linkedin.com/in/rubenmtzc/"><img src="assets/images/LI-Logo.png" alt="LinkedIn Twitter" width="100/"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/runomics"><img src="assets/images/Twitter_blue_icon.png" alt="DMU Twitter" width="30/"></a>
 
-[Webpage at work](https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx)
+
 
 You can use the
 [editor on GitHub](https://github.com/rubenmtzc/rubenmtzc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -37,7 +37,7 @@ _End of page_
 'No more' `No more`
 **Done**
 
-<a href="https://twitter.com/runomics"><img src="assets/images/Twitter_blue_icon.png" alt="DMU Twitter" width="30/"></a>
+[Webpage at work](https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
