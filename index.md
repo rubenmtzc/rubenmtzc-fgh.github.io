@@ -11,19 +11,28 @@ You can use the
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Teaching
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Advanced Microeconomics
+- Syllabus
+- Lecture slides
+- Lecture notes
+- Problem sets
+- VLE (DMU students only)
 
-```markdown
-Syntax highlighted code block
+##### Economics dissertation
+- Syllabus
+- Lecture slides
+- Seminars
+- VLE (DMU students only)
 
-# Header 1
-## Header 2
-### Header 3
+### Research
 
-- Bulleted
-- List
+- Digital economics
+- Market design
+- Financial intermediation
+- Other
+
 
 1. Numbered
 2. List
