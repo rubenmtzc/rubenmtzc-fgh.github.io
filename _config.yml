@@ -6,4 +6,5 @@ gem "github-pages", group: :jekyll_plugins
 logo: "/assets/images/RMC-Pic.jpg"
 title: Rubén Martínez Cárdenas
 description: Welcome to my homepage
+twitter: ""
 
