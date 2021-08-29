@@ -37,7 +37,7 @@ _End of page_
 'No more' `No more`
 **Done**
 
-<a href="https://twitter.com/runomics"><img src="assets/images/Twitter_blue_icon.png" alt="DMU Twitter" width="100/"></a>
+<a href="https://twitter.com/runomics"><img src="assets/images/Twitter_blue_icon.png" alt="DMU Twitter" width="30/"></a>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
