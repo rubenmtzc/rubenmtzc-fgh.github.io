@@ -5,6 +5,12 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 logo: "/assets/images/RMC-Pic.jpg"
 title: Rubén Martínez Cárdenas
-description: Welcome to my homepage
-twitter: ""
+description: Welcome to my homepage. I am a microeconomist with interests in digital economy, economic design, financial intermediation, and macroeconomics.
+social-network-links:
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: c/daattali
 
