@@ -6,11 +6,6 @@
 
 [Webpage at work](https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx)
 
-
-|<a href="https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx"><img src="assets/images/DMU-Logo.png" alt="DMU logo" width="100/"></a><br>[Webpage at work](https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx) |<a href="https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx"><img src="assets/images/DMU-Logo.png" alt="DMU logo" width="100/"></a><br>[Webpage at work](https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx) | <a href="https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx"><img src="assets/images/DMU-Logo.png" alt="DMU logo" width="100/"></a><br>[Webpage at work](https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx) |
-|-------|--------|---------|
-
-
 You can use the
 [editor on GitHub](https://github.com/rubenmtzc/rubenmtzc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
