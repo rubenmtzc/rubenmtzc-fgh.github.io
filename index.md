@@ -2,7 +2,7 @@
 
 ## Digital life
 
-<a href="https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx"><img src="assets/images/DMU-Logo.png" alt="DMU logo" width="100/"></img></a>
+<a href="https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx"><img src="assets/images/DMU-Logo.png" alt="DMU logo" width="100/"></a>
 
 [Webpage at work](https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx)
  
