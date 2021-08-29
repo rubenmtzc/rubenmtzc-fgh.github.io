@@ -6,4 +6,9 @@ gem "github-pages", group: :jekyll_plugins
 logo: "/assets/images/RMC-Pic.jpg"
 title: Rubén Martínez Cárdenas
 description: Welcome to my homepage
-<a href="https://www.facebook.com/your-facebook-username" title="Facebook">
+email: "someone@example.com"
+facebook: deanattali
+github: daattali
+twitter: daattali
+patreon: DeanAttali
+youtube: c/daattali 
