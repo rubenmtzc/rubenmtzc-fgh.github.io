@@ -1,14 +1,9 @@
 theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
 logo: "/assets/images/RMC-Pic.jpg"
 title: Rubén Martínez Cárdenas
 description: Welcome to my homepage
-email: "someone@example.com"
-facebook: deanattali
-github: daattali
-twitter: "https://twitter.com/runomics"
-patreon: DeanAttali
-youtube: c/daattali 
+
